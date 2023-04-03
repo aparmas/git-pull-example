@@ -1,2 +1,2 @@
 # git-pull-example
-Test repository
+This repository has been created for learn the pull command
